@@ -21,10 +21,14 @@ This NIFTY50 Stock Screener is an automated Python-based tool designed to analyz
 4. Interactive Candlestick Charts: Visualize stock prices over custom time periods using Plotly.
 5. Data Export/Summary: Displays comprehensive business summary and company profile information.   
 
-##text
+#### text
+
 ├── Nifty50Screener.py  # Main Streamlit application
+
 ├── NIFTY50.csv         # File containing NIFTY 50 tickers
+
 ├── requirements.txt    # Project dependencies
+
 └── README.md           # Project documentation
 
 ## Setup Instructions:
