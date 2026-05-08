@@ -83,5 +83,6 @@ This NIFTY50 Stock Screener is an automated Python-based tool designed to analyz
 2. Choose between "Fundamental" or "Technical" analysis.
 3. Adjust the time period (years) or technical indicator parameters.
 
-
+#### Preview of the webapp
+![webapp](https://github.com/Jhanwi/NIFTY-Stock-Market-Screener/blob/cddf2f9205f2dce7bc82420af610bcf183cc66f5/media/webapp-demo.gif.gif)
 
