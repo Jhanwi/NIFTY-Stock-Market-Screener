@@ -23,7 +23,7 @@ This NIFTY50 Stock Screener is an automated Python-based tool designed to analyz
 
 #### text
 
-├── Nifty50Screener.py  # Main Streamlit application
+├── Nifty50Screener.py   # Main Streamlit application
 
 ├── NIFTY50.csv         # File containing NIFTY 50 tickers
 
